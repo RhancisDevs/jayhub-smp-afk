@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Jayhubsmp",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Jayhubsmp",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "samratwithfriends.aternos.me",
-    "port": 44682,
+    "ip": "Jaydevsss.aternos.me",
+    "port": 44655,
     "version": "1.21.4",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Eren napaka pogi!",
         "I like to play Minecraft!"
       ]
     },
